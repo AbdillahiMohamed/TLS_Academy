@@ -26,7 +26,7 @@ class classWorkOne extends StatelessWidget {
             Container(
               color: Colors.grey[300],
               child: Text(
-                'Doorrashada Somaliland waa hab-raac dimoqraadiyadeed oo si joogto ah looga qabto Jamhuuriyadda iskeed ugu dhawaaqday madax-bannaanida ee Somaliland. Tani waa dhacdo muhim ah oo soo jiidata indhaha bulshada caalamka maadaama ay astaan u tahay nidaamka dimuqraadiyadda iyo maamul wanaagga ee gobolka Geeska Afrika. Doorrashooyinkan waxay ku yimaadaan si nabad ah iyagoo muujinaya biseylka siyaasadeed ee bulshada Somaliland iyo sida ay uga go’an tahay hirgelinta nidaam dimoqraadi ah oo hufan.',
+                'Somaliland waxay qabataa doorashooyinka madaxweynaha, baarlamaanka, iyo goleyaasha deegaanka si loo xaqiijiyo wakiilnimada shacabka. Doorashadii ugu dambeysay ee madaxtinnimada ayaa qabsoontay sanadkii 2017, iyadoo dooddii ugu dambeeysay loo arkay mid si weyn loo tartamay, taas oo ugu dambeyntii horseeday isbeddel awood oo si nabad ah u dhacay. Tani waxay Somaliland ka dhigtay mid ka duwan dalal badan oo ku yaalla qaaradda Afrika, halkaas oo doorashooyinku badanaa keeni karaan qalalaase iyo is-qabqabsi siyaasadeed.',
                 style: TextStyle(color: Colors.grey[700], fontSize: 20),
               ),
             ),

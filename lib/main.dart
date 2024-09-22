@@ -3,6 +3,8 @@ import 'package:tls_project/lesson1.dart';
 import 'package:tls_project/lesson2.dart';
 import 'package:tls_project/classwork1.dart';
 import 'package:tls_project/test.dart';
+import 'package:tls_project/classwork2.dart';
+import 'package:tls_project/classwork3.dart';
 
 void main() {
   runApp(const MyApp());
@@ -35,7 +37,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: false,
       ),
-      home: classWorkOne(),
+      home: ExerciseApp(),
     );
   }
 }
